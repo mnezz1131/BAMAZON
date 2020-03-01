@@ -96,7 +96,7 @@ function addInventory() {
                     choices: function () {
                         var choiceArray = [];
                         for (var i = 0; i < res.length; i++) {
-                            choiceArray.push(res[i].item_id); 
+                            choiceArray.push(res[i].product_name); 
                         }
                         return choiceArray;
                     },
@@ -112,7 +112,7 @@ function addInventory() {
                 // get the information of the chosen item
                 var chosenItem;
                 for (var i = 0; i < res.length; i++) {
-                    if (res[i].item_id === answer.choice) { //use id
+                    if (res[i].product_name === answer.choice) { //use id
                         chosenItem = res[i];
                     }
                 }
