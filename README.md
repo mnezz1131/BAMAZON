@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1RAKetk_8h21Uq6ViscLmmAEPWqRzOoIb/view
 
 Link for Manager JS
 https://drive.google.com/file/d/1RAKetk_8h21Uq6ViscLmmAEPWqRzOoIb/view
+
+Link to Repository
+https://github.com/mnezz1131/BAMAZON
